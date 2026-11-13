@@ -16,7 +16,7 @@ Maps by Elias Omondi for the [#30DayMapChallenge](https://30daymapchallenge.com)
 | 10 | [Deep forest](day10-deep-forest/) |
 | 11 | Coming soon |
 | 12 | Coming soon |
-| 13 | Coming soon |
+| 13 | [Bottle drift on ocean currents](day13-bottle-drift/) (interactive) |
 | 14 | Coming soon |
 | 15 | Coming soon |
 | 16 | Coming soon |
